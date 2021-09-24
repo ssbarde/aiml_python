@@ -6,7 +6,7 @@ df = pd.read_csv('TE_final.csv')
 
 print(df.head())
 
-# print("fdfd")
+print("fdfd")
 
 print(df.columns)
 
